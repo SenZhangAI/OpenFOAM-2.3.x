@@ -7,6 +7,14 @@
 #+OPTIONS: author:nil ^:{}
 # Copyright (c) 2014 OpenFOAM Foundation.
 
+* 说明
+  本分支来自于 OpenFOAM 官方github地址(20150226)
+  [[https://github.com/OpenFOAM/OpenFOAM-2.3.x]] ,
+  创建此分支是为了学习OpenFOAM，我会直接在我认为重要的代码旁写上注释。必要时
+  添加文件说明源码的整体构架。
+
+* 以下来自于官方文档介绍
+
 * About OpenFOAM
   OpenFOAM is a free, open source computational fluid dynamics (CFD) software
   package released by the OpenFOAM Foundation. It has a large user base across
